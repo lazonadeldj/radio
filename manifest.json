@@ -1,5 +1,5 @@
 {
-  "name": "Radio La Zona Del Dj",
+  "name": "La Zona Del Dj",
   "short_name": "Radio",
   "start_url": ".",
   "display": "standalone",
@@ -12,7 +12,7 @@
       "type": "image/png"
     },
     {
-      "src": "https://i.ibb.co/HDwKCyv0/LOGODISCO.png",
+      "src": "https://i.ibb.co/ZRrQf1D0/Fondo-app.png",
       "sizes": "512x512",
       "type": "image/png"
     }
