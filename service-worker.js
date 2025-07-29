@@ -1,4 +1,4 @@
-const CACHE_NAME = 'radio-caliente-cache-v1';
+const CACHE_NAME = 'zona-del-dj-v1';
 const URLS_TO_CACHE = [
   '/',
   '/DJ ROLANDO BUENO_PROYECTO_BASE64.html',
