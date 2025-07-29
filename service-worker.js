@@ -1,7 +1,7 @@
 const CACHE_NAME = 'radio-caliente-cache-v1';
 const URLS_TO_CACHE = [
   '/',
-  '/DJ WILMER_PROYECTO_BASE64.html',
+  '/DJ ROLANDO BUENO_PROYECTO_BASE64.html',
   '/manifest.json'
 ];
 
