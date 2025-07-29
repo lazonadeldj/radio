@@ -5,7 +5,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-<title>La Zona Del Dj</title>
+<title>Zona Del Dj</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -587,7 +587,7 @@ playBtn.addEventListener("click", () => {
 
 const trackInfoElement = document.getElementById("track-info");
 function fetchMetadata() {
-  fetch("hhttps://stream.zeno.fm/sf5prozqc99uv")
+  fetch("C:\Users\ROLANDO DJ\AppData\Roaming\djsoft.net\RadioBOSS_777134203\nowplaying.txt")
     .then(res => res.json())
     .then(data => {
       const title = data.songtitle || data.song || "Transmitiendo...";
